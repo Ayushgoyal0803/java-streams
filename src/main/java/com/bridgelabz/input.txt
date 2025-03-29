@@ -1,0 +1,2 @@
+Hello Java, java program.
+buffer input stream
